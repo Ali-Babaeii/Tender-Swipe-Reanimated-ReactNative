@@ -1,7 +1,8 @@
 # Tender-Swipe-ReactNative
 This is React Native Application which show sweep image to left and right and save them to favorites.
 
-<img src = "https://i.ibb.co/f9CD2WM/1.png" width ="220" /> <img src = "https://i.ibb.co/D1N2XRL/2.png" width ="220"/> <img src = "https://i.ibb.co/HqGDZs6/3.png" width ="220" /> 
+
+<img src = "https://i.ibb.co/f9CD2WM/1.png" width ="220" />  <img src = "https://i.ibb.co/D1N2XRL/2.png" width ="220"/>  <img src = "https://i.ibb.co/HqGDZs6/3.png" width ="220" /> 
 
 # Features
 - Search for favorite cities
