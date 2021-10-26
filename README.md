@@ -1,4 +1,4 @@
-# Tender-Swipe-ReactNative
+# Tender-Swipe-Reanimated-ReactNative
 This is React Native Application which show image with sweeping left or right and can save them to favorites.
 
 
