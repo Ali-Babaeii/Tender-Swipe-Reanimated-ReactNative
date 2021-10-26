@@ -6,7 +6,7 @@ This is React Native Application which show image with sweeping left or right an
 
 # Features
 - Display images with sweeping right or left
-- Undo sweep changes
+- Undo changes
 - like and dislike images
 - add selected images to favorites 
 
